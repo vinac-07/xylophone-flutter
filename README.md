@@ -1,6 +1,6 @@
 # xylophone
 
-A new Flutter application.
+A new Flutter application used to play sound like a xylophone.
 
 ## Getting Started
 
